@@ -114,7 +114,6 @@ header {
 
 @media(max-width: 470px) {
     .icon svg{
-      display: none;
-      visibility: hidden;
+      width: 1.5rem;
     }
   }
