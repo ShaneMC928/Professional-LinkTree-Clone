@@ -109,3 +109,12 @@ header {
     margin: 4px 8px;
 }
 
+
+
+
+@media(max-width: 470px) {
+    .icon svg{
+      display: none;
+      visibility: hidden;
+    }
+  }
